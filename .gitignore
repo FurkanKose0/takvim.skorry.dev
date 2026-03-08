@@ -1,0 +1,28 @@
+# Database files
+*.sqlite
+*.sqlite3
+*.db
+*.db3
+calendar.sqlite
+*.sql
+db.php
+# Archives
+*.zip
+*.tar
+*.tar.gz
+Archive.zip
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.orig
