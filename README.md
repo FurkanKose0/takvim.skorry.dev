@@ -1,7 +1,5 @@
 # takvim.skorry.dev
 
-Günlük yaptığım işlerin notunu aldığım bir uygulama.
-
 A simple, PHP-based calendar application with an administrative panel for managing entries.
 
 ## Project Structure
